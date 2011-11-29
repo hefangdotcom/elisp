@@ -1,5 +1,6 @@
 (require 'cl)
 (add-to-list 'load-path "c:/luc/")
+
 ;;(require 'commands)
 (global-set-key [f1] '.emacs)
 (global-set-key [f2] 'dired)
@@ -14,7 +15,7 @@
 (global-set-key (kbd "C-9") 'kill-whole-line) ; 
 (global-set-key [f12] 'load-file)
 
-;;
+(setq visible-bell t)
 ;;;(setq viper-mode t)
 (setq kill-whole-line t)
 (setq tramp-default-method "ssh")

@@ -1,4 +1,17 @@
-modified! add !
+PB is a great knowledge tool but not a good innovation tool. 
+To be innovative, you need not concepte & context but action plan and quick response. That's much tougher.
+
+I see an application more sophiscated than twitter/facebook. In this application, every person is granted a unlimited space for growth. natural language is touch point of parallel universe. the whole internet is a universe, we help people to enter this space.
+
+Sure my goal is an emacs application that you can use over internet and backed by git, then no waste of one drop of your brain. You get everything you want! content addressable. personalbrain+git is perfect for me. however, I'm dreaming of more from PB while new PB is not what I want. I will set up open-source project to implement PB in open-source.
+
+How to organize my idea ?
+Just write it down before I build a whole solution, so the question changes to
+How to write down my idea ?
+Naturally in plain text and unique file name .
+File name is not a big deal. 
+
+
 Trap  when teach english to kid:
 1. False goal: to talk daily life in english
 2. Valid goal: undergraduate textbook is easier than teenager's novels
@@ -10,12 +23,9 @@ then local CVS as lower layer + xml + lisp +emacs. That's
 
 future computation is emacs
 
-
 6. stock/fund of consume product.
 j1. info management: time and location (info's context) . 
 emacs should be aware of your location.  info should always has properties of  time/location 
-
-
 
 * [ ] 9. Use scratch for eval test only 			  :plainlist:
 
@@ -31,6 +41,4 @@ unite and diverse are 2 parallel directions of the future
 13.2 won't be able to  disable VSC feature custvar=NULL, after SP switch over. VSM failover.
  reset both standby/active VSM to disable the feature. (concers of re-provision)
 
-
 Formating:: data formating can be reversed
-
